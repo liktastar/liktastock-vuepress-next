@@ -120,3 +120,8 @@ dist
 # vuepress
 docs/.vuepress/*
 !docs/.vuepress/config.js
+
+# firebase
+firebase.json
+.firebaserc
+.firebase
