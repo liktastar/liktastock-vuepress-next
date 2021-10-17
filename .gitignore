@@ -118,4 +118,5 @@ dist
 .pnp.*
 
 # vuepress
-docs/.vuepress
+docs/.vuepress/*
+!docs/.vuepress/config.js
