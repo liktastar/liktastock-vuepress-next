@@ -5,6 +5,7 @@ module.exports = {
 
   themeConfig: {
     logo: 'https://vuejs.org/images/logo.png',
+    darkMode: false,
   },
   plugins: [
     [
