@@ -1,0 +1,14 @@
+{
+  "name": "liktastock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "liktastar",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.26"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
